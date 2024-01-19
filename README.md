@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenSnaith, a first year Computer Science student.
 - 👀 I’m interested in Software Engineering & Electrical Engineering.
-- 🌱 I’m currently learning Java, C
+- 🌱 I’m currently learning Java, C/C++
 - 📫 How to reach me; Riusab (Discord)
 
 <!---
