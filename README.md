@@ -17,6 +17,7 @@ Feel free to check out my repos.
 - React
 - Next.JS
 - Laravel
+- Angular
 
 
 ## 🔗 Links
