@@ -23,7 +23,3 @@ Feel free to check out my repos.
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-snaith/)
-
-## 
-
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenSnaith&theme=merko&show_icons=true)
